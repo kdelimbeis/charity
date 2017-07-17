@@ -1,3 +1,8 @@
+.issues{
+  color: white; 
+  font-size: 35px;
+}
+
 .index {
 	background-image: url("ptsdbrain.png");
 	background-size: cover;
