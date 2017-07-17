@@ -19,6 +19,13 @@
   margin:0;
 }
 
+.solution {
+  background-image: url("dog.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin:0;
+}
+
 
 
 .topnav {
