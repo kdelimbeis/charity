@@ -12,6 +12,14 @@
   margin:0;
 }
 
+.help {
+  background-image: url("activesoldier.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin:0;
+}
+
+
 
 .topnav {
   overflow: hidden;
