@@ -1,8 +1,15 @@
-body {
+.index {
 	background-image: url("ptsdbrain.png");
 	background-size: cover;
 	background-repeat: no-repeat;
 	margin:0;
+}
+
+.problem {
+  background-image: url("ptsdsoldier.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin:0;
 }
 
 
